@@ -1,3 +1,4 @@
+package Jobsheet2;
 public class Smartphone {
     public String brand;
     public String type;
