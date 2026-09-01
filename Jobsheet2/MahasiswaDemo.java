@@ -1,3 +1,4 @@
+package Jobsheet2;
 public class MahasiswaDemo {
     public static void main(String[] args) {
         // Object 1

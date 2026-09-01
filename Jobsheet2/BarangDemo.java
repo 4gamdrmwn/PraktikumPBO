@@ -1,3 +1,4 @@
+package Jobsheet2;
 public class BarangDemo {
     public static void main(String[] args) {
         Barang barang1 = new Barang();

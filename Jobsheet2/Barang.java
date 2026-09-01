@@ -1,3 +1,4 @@
+package Jobsheet2;
 public class Barang {
     public String kode;
     public String nama;
