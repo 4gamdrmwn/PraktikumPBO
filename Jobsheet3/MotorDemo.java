@@ -2,8 +2,10 @@ package Jobsheet3;
 
 public class MotorDemo {
         public static void main(String[] args) {
+            
             // Object 1
             Motor motor1 = new Motor();
+            motor1.displayStatus();
             motor1.setPlatNomor("B 0838 XZ");
             motor1.setKecepatan(50);
             motor1.displayStatus();
